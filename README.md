@@ -13,8 +13,8 @@ This project provides a conversational AI chatbot, **DocLLM-Chatbot**, capable o
 
 ---
 ## **Screenshots**
-![Screenshot](screenshot1.png)
-![Screenshot](screenshot2.png)
+![Screenshot](Screenshot1.png)
+![Screenshot](Screenshot2.png)
 
 ## **Installation Instructions**
 
