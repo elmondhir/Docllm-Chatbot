@@ -12,6 +12,9 @@ This project provides a conversational AI chatbot, **DocLLM-Chatbot**, capable o
 - Includes a training notebook for replication or further fine-tuning as well as **Colab** [link](https://colab.research.google.com/drive/1aUL7FKJi5aRpZPPdKJHMbuF6u9EjGekH#scrollTo=6iVc4Ybv5odu).
 
 ---
+## **Screenshots**
+![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.png)
 
 ## **Installation Instructions**
 
