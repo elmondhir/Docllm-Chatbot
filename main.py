@@ -14,11 +14,11 @@ models = [model["model"] for model in ollama.list()["models"]]
 st.session_state["model"] = st.selectbox("Choose your model", models)
 
 def model_res_generator(user_prompt):
-    alpaca_prompt = """If you are a doctor, please answer the medical questions based on the patient's description:
+    prompt = """If you are a doctor, please answer the medical questions based on the patient's description:
     Input: {input}
     Output: {output}
     """
-    formatted_prompt = alpaca_prompt.format(input=user_prompt, output="")  # Leave output blank for generation
+    formatted_prompt = prompt.format(input=user_prompt, output="")  # Leave output blank for generation
 
     # Replace user input with formatted prompt
     messages = [{"role": "user", "content": formatted_prompt}]
