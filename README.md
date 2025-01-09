@@ -9,7 +9,7 @@ This project provides a conversational AI chatbot, **DocLLM-Chatbot**, capable o
 - Fine-tuned LLaMA3-8B model specifically for medical queries.
 - Interactive chat interface built using Streamlit.
 - Lightweight setup leveraging Ollama for efficient model handling.
-- Includes a training notebook for replication or further fine-tuning as well as **Colab** [link](https://colab.research.google.com/drive/1aUL7FKJi5aRpZPPdKJHMbuF6u9EjGekH#scrollTo=6iVc4Ybv5odu).
+- Includes a training notebook for replication or further fine-tuning as well as **Colab** [link](https://colab.research.google.com/drive/1aUL7FKJi5aRpZPPdKJHMbuF6u9EjGekH?usp=sharing).
 
 ---
 ## **Screenshots**
